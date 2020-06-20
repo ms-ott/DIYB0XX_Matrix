@@ -1,2 +1,2 @@
 # DIYB0XX_Matrix
-halp
+This is literally just Crane's code but patched to allow matrix inputs
